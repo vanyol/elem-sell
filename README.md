@@ -1,5 +1,7 @@
 # sell
 
+预览地址https://vanyol.github.io/elem-sell/#/
+
 > waimai app
 
 ## Build Setup
